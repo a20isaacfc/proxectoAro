@@ -7,6 +7,11 @@ import java.text.DecimalFormat;
  * @author Isaac Fontal
  */
 public class Main {
+
+    /**
+     * Programa que xenera un círculo e amosa todas as suas propiedades.
+     * @param args parámetros da línea de comandos
+     */
     public static void main(String[] args) {
         Aro aro = new Aro(37,43,2.5);
         String saida =

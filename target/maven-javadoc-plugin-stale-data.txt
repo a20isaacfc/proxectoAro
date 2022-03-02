@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'/home/isaac/NetBeansProjects/proxectoAro/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'proxectoAro 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/isaac/NetBeansProjects/proxectoAro/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'proxectoAro 1.0-SNAPSHOT API'
+circulo
+/home/isaac/NetBeansProjects/proxectoAro/src/main/java = 1620382058000
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/index.html = 1646265366799
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/constant-values.html = 1646265366615
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/tag-search-index.js = 1646265366739
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/script.js = 1646265366823
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/element-list = 1646265366559
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/member-search-index.js = 1646265366739
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/allpackages-index.html = 1646265366731
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/allclasses-index.html = 1646265366711
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/jquery-ui.overrides.css = 1646265366879
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/stylesheet.css = 1646265366823
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/package-search-index.js = 1646265366731
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/help-doc.html = 1646265366811
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/search.js = 1646265366831
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/index-all.html = 1646265366795
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/overview-tree.html = 1646265366663
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/type-search-index.js = 1646265366731
+/home/isaac/NetBeansProjects/proxectoAro/target/site/apidocs/module-search-index.js = 1646265366731

@@ -12,11 +12,14 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
 /**
- *
+ * Test para a clase Aro.
  * @author Isaac Fontal
  */
 public class AroTest {
     
+    /**
+     * Constructor da clase.
+     */
     public AroTest() {
     }
     
