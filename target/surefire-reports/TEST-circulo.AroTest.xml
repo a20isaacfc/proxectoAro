@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="10" failures="0" name="circulo.AroTest" time="0.023" errors="0" skipped="0">
+<testsuite tests="10" failures="0" name="circulo.AroTest" time="0.03" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="17.0.2+8-LTS-86"/>
@@ -58,14 +58,14 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase classname="circulo.AroTest" name="circulo.AroTest.testEstablecerX" time="0.005"/>
+  <testcase classname="circulo.AroTest" name="circulo.AroTest.testEstablecerX" time="0.002"/>
   <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterX" time="0.001"/>
-  <testcase classname="circulo.AroTest" name="circulo.AroTest.testEstablecerY" time="0.001"/>
-  <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterY" time="0"/>
+  <testcase classname="circulo.AroTest" name="circulo.AroTest.testEstablecerY" time="0.003"/>
+  <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterY" time="0.002"/>
   <testcase classname="circulo.AroTest" name="circulo.AroTest.testEstablecerRadio" time="0"/>
-  <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterRadio" time="0.012"/>
-  <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterDiametro" time="0.001"/>
-  <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterCircunferencia" time="0"/>
-  <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterSuperficie" time="0.002"/>
-  <testcase classname="circulo.AroTest" name="circulo.AroTest.testTrasladarCentro" time="0.001"/>
+  <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterRadio" time="0.01"/>
+  <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterDiametro" time="0.003"/>
+  <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterCircunferencia" time="0.001"/>
+  <testcase classname="circulo.AroTest" name="circulo.AroTest.testObterSuperficie" time="0.008"/>
+  <testcase classname="circulo.AroTest" name="circulo.AroTest.testTrasladarCentro" time="0"/>
 </testsuite>
