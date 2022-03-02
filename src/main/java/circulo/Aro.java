@@ -67,4 +67,28 @@ public class Aro {
         coordenadaX=coordenadaX + trasladarX;
         coordenadaY=coordenadaY + trasladarY;
     }
+
+    public int getCoordenadaX() {
+        return coordenadaX;
+    }
+
+    public void setCoordenadaX(int coordenadaX) {
+        this.coordenadaX = coordenadaX;
+    }
+
+    public int getCoordenadaY() {
+        return coordenadaY;
+    }
+
+    public void setCoordenadaY(int coordenadaY) {
+        this.coordenadaY = coordenadaY;
+    }
+
+    public double getRadio() {
+        return radio;
+    }
+
+    public void setRadio(double radio) {
+        this.radio = radio;
+    }
 }
