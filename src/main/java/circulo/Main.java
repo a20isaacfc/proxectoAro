@@ -1,6 +1,8 @@
 package circulo;
 
+import java.util.logging.Logger;
 import java.text.DecimalFormat;
+import java.util.logging.Level;
 
 /**
  * Pruebas de refactorización en NetBeans con la clase Aro
@@ -8,6 +10,8 @@ import java.text.DecimalFormat;
  */
 public class Main {
 
+    private static final Logger LOG = Logger.getLogger(Main.class.getName());
+    
     /**
      * Programa que xenera un círculo e amosa todas as suas propiedades.
      * @param args parámetros da línea de comandos
@@ -25,9 +29,9 @@ public class Main {
         saida+="\nO diámetro é "+dousDixitos.format(aro.obterDiametro());
         saida+="\nA circunferencia é "+dousDixitos.format(aro.obterCircunferencia());
         saida+="\nA área é "+dousDixitos.format(aro.obterSuperficie());
-        System.out.println(saida);
+        LOG.log(Level.SEVERE, saida);
         
-        System.out.println(saida);
+        LOG.log(Level.SEVERE, saida);
         System.exit(0);
     }
 
